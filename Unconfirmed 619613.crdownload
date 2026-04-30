@@ -1,0 +1,8 @@
+[DATABASE]
+host = localhost
+user = root
+password = 1234
+
+[SETTINGS]
+port = 3306
+debug = True

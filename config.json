@@ -1,0 +1,11 @@
+{
+  "DATABASE": {
+    "HOST": "localhost",
+    "PORT": 9090,
+    "USER": "root",
+    "PASSWORD": "1234"
+  },
+  "SETTINGS": {
+    "debug": true
+  }
+}

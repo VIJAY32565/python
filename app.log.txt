@@ -1,0 +1,9 @@
+INFO:root:program started
+WARNING:root:low memory
+ERROR:root:an error occurred
+INFO:root:program started
+WARNING:root:low memory
+ERROR:root:an error occurred
+INFO:root:program started
+WARNING:root:low memory
+ERROR:root:an error occurred

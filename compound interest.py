@@ -1,0 +1,9 @@
+p=float(input("enter principal amount:"))
+r=float(input("enter rate of interest :"))
+t=float(input("enter time{in years}:"))
+simple_interest=int(p*t*r/100)
+amount=p*(1+r/100)**t
+ci=int(amount-p)
+print("\nTOTAL AMOUNT =", amount, "$")
+print("COMPOUND INTEREST =", ci, "$")
+print("SIMPLE INTEREST =", simple_interest, "$")
